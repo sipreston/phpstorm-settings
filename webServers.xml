@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="07915443-6e81-43c5-862a-4172c0f7d731" name="VM Server" url="https://singup.simon.3ev.modern">
+        <fileTransfer mountedRoot="X:\Sites\tev-modern\singup" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
