@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="cronjobs-ot-conduit-production" type="AUTO_DETECTED" />
+      <mapping ext="production" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

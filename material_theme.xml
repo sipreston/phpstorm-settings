@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="51e6f6e4:17eee989a8c:-8000" />
+    <option name="version" value="6.16.1" />
+  </component>
+</application>
